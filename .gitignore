@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+contracts/*.abi
+contracts/*.bin
+contracts/*.go
+
+/rsb-service-ethereum
+
+/.idea
